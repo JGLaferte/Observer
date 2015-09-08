@@ -31,7 +31,7 @@
 ```
 # Ho to use ?
 
-* 1.Implement the Iobserver for the obervable object
+1 * Implement the Iobserver for the obervable object
 
 * 2.Create a new instence of Observer Manager in the observed object
 
@@ -45,6 +45,12 @@
 * Reusable
 
 # Why ?
+
+Observer pattern is used when there is one-to-many relationship between objects such as if one object is modified, its
+
+depenedent objects are to be notified automatically. Observer pattern falls under behavioral pattern category.
+
+Think for exemple of twitter, followers is the observer and the followed is to one being observed.
 
 # Exemple
 Simple clone my project and test my pattern.
