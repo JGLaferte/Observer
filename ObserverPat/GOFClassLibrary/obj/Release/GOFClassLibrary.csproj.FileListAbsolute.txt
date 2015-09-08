@@ -1,0 +1,5 @@
+C:\Users\Jean-Gab\Desktop\école\WindowsFormsApplication4\GOFClassLibrary\bin\Release\GOFClassLibrary.dll
+C:\Users\Jean-Gab\Desktop\école\WindowsFormsApplication4\GOFClassLibrary\bin\Release\GOFClassLibrary.pdb
+C:\Users\Jean-Gab\Desktop\école\WindowsFormsApplication4\GOFClassLibrary\obj\Release\GOFClassLibrary.dll
+C:\Users\Jean-Gab\Desktop\école\WindowsFormsApplication4\GOFClassLibrary\obj\Release\GOFClassLibrary.pdb
+C:\Users\Jean-Gab\Desktop\école\WindowsFormsApplication4\GOFClassLibrary\obj\Release\GOFClassLibrary.csprojResolveAssemblyReference.cache

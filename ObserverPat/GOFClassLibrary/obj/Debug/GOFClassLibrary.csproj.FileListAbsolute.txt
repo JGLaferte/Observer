@@ -1,0 +1,4 @@
+C:\Users\Jean-Gab\Desktop\école\WindowsFormsApplication4\GOFClassLibrary\bin\Debug\GOFClassLibrary.dll
+C:\Users\Jean-Gab\Desktop\école\WindowsFormsApplication4\GOFClassLibrary\bin\Debug\GOFClassLibrary.pdb
+C:\Users\Jean-Gab\Desktop\école\WindowsFormsApplication4\GOFClassLibrary\obj\Debug\GOFClassLibrary.dll
+C:\Users\Jean-Gab\Desktop\école\WindowsFormsApplication4\GOFClassLibrary\obj\Debug\GOFClassLibrary.pdb
