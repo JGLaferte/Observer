@@ -34,13 +34,13 @@ Pattern :
 # Ho to use ?
 ------------------------------------------------------
 
-- [ ] Implement the Iobserver for the obervable object
+- [ ] 1.Implement the Iobserver for the obervable object
 
-- [ ] Create a new instence of Observer Manager in the observed object
+- [ ] 2.Create a new instence of Observer Manager in the observed object
 
-- [ ] Place the Notify function where is needed
+- [ ] 3.Place the Notify function where is needed
 
-- [ ]Register/unregister 
+- [ ] 4.Register/unregister 
 
 # Objectif 
 -Easy to use and simple Pattern
