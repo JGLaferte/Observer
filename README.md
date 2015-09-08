@@ -43,8 +43,8 @@
 
 | Objectif  | Solution |
 | ------------- | ------------- |
-| Easy to use and simple  | * using class for make instance for having less code to write + interface   |
-| Reusable  | Content Cell  |
+| Easy to use and simple  |  using class/interface for make instance for having less code to write   |
+| Reusable  | Using generic typing + no multi hineritense (c# dont support it)  |
 
 
 
