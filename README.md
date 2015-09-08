@@ -2,6 +2,7 @@
 My take on the Design pattern : Observer
 ------------------------------------------
 Pattern : 
+```c#
 
         public class ObserverManager
         {
@@ -25,6 +26,7 @@ Pattern :
                 }
             }
         }
+```
         public interface Iobserver
         {
             void update<S>(S sub);
