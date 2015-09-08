@@ -43,7 +43,7 @@
 
 | Objectif  | Solution |
 | ------------- | ------------- |
-| Easy to use and simple  | Content Cell  |
+| Easy to use and simple  | * using class for make instance for having less code to write + interface   |
 | Reusable  | Content Cell  |
 
 
