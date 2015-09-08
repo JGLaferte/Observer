@@ -60,9 +60,7 @@ Simply clone my project and test my pattern. To me, real life example is always 
 
 the electricity for the example. In the project I created 2 custom component: "Switch" and "light". You simply register a
 
-switch
-
-To a light to make it react to it.
+switch to a light to make it react to it.
 
 
 
