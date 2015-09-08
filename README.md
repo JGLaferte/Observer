@@ -1,5 +1,6 @@
 #My take on the Design pattern  Observer
-----------
+
+
 Pattern : 
 ```c#
 
@@ -32,7 +33,6 @@ Pattern :
         }
 ```
 # Ho to use ?
-------------------------------------------------------
 
 - [ ] 1.Implement the Iobserver for the obervable object
 
@@ -43,8 +43,8 @@ Pattern :
 - [ ] 4.Register/unregister 
 
 # Objectif 
--Easy to use and simple Pattern
-------------------------------------------------------
+Easy to use and simple Pattern
+
 
 
   
