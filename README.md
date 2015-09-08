@@ -57,6 +57,9 @@ You simply register a switch to a light to make it react to it.
 
 
 
+![alt tag](https://raw.githubusercontent.com/JGLaferte/Observer/master/lightExemple.png)
+
+(switch1 is registered to light 1 and 2)
 
 
 
