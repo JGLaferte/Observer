@@ -56,9 +56,11 @@ example of twitter, followers is the observer and the followed is to one being o
 
 # Example
 
-Simply clone my project and test my pattern. To me, real life example is always easier to understand. That why I used the
+Simply clone my project and test my pattern. To me, real life example is always easier to understand. That why I used 
 
-Electricity for the example. In the project I created 2 custom component: "Switch" and "light". You simply register a switch
+the electricity for the example. In the project I created 2 custom component: "Switch" and "light". You simply register a
+
+switch
 
 To a light to make it react to it.
 
