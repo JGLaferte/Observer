@@ -47,6 +47,15 @@
 # Why ?
 
 # Exemple
+Simple clone my project and test my pattern.
+
+To me , real life exemple is alway easyer to undestand.That why i used the electicity for the exemple.
+
+In the project i created 2 custom componennt : "Switch" and "light".
+
+You simply register a switch to a light to make it react to it.
+
+
 
 
 
