@@ -34,7 +34,7 @@ Pattern :
 ```
 # Ho to use ?
 
-- [x] 1.Implement the Iobserver for the obervable object
+* 1.Implement the Iobserver for the obervable object
 
 - [x] 2.Create a new instence of Observer Manager in the observed object
 
@@ -44,6 +44,7 @@ Pattern :
 
 # Objectif 
 Easy to use and simple Pattern
+
 
 
 
