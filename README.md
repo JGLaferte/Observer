@@ -41,10 +41,12 @@
 
 # Objectif 
 
-* Easy to use and simple
-        oedokdopr
-* Reusable
-        irfcirfcio
+| Objectif  | Solution |
+| ------------- | ------------- |
+| Easy to use and simple  | Content Cell  |
+| Reusable  | Content Cell  |
+
+
 
 # Why ?
 
