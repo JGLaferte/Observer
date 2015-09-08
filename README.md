@@ -1,8 +1,5 @@
 #My take on the Design pattern  Observer
-
-
-Pattern : 
-```c#
+```csharp
 
         public class ObserverManager
         {
@@ -36,14 +33,20 @@ Pattern :
 
 * 1.Implement the Iobserver for the obervable object
 
-- [x] 2.Create a new instence of Observer Manager in the observed object
+* 2.Create a new instence of Observer Manager in the observed object
 
-- [x] 3.Place the Notify function where is needed
+* 3.Place the Notify function where is needed
 
-- [x] 4.Register/unregister 
+* 4.Register/unregister 
 
 # Objectif 
-Easy to use and simple Pattern
+
+* Easy to use and simple
+* Reusable
+
+# Why ?
+
+# Exemple
 
 
 
