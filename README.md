@@ -31,18 +31,20 @@
 ```
 # Ho to use ?
 
-1 * Implement the Iobserver for the obervable object
+* Implement the Iobserver for the obervable object
 
-* 2.Create a new instence of Observer Manager in the observed object
+* Create a new instence of Observer Manager in the observed object
 
-* 3.Place the Notify function where is needed
+* Place the Notify function where is needed
 
-* 4.Register/unregister 
+* Register/unregister 
 
 # Objectif 
 
 * Easy to use and simple
+        oedokdopr
 * Reusable
+        irfcirfcio
 
 # Why ?
 
@@ -53,6 +55,7 @@ depenedent objects are to be notified automatically. Observer pattern falls unde
 Think for exemple of twitter, followers is the observer and the followed is to one being observed.
 
 # Exemple
+
 Simple clone my project and test my pattern.
 
 To me , real life exemple is alway easyer to undestand.That why i used the electicity for the exemple.
