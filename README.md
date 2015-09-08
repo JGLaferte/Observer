@@ -1,5 +1,4 @@
-# Observer #
-My take on the Design pattern : Observer
+#My take on the Design pattern  Observer
 ------------------------------------------
 Pattern : 
 ```c#
