@@ -20,3 +20,6 @@ C:\Users\Jean-Gab\Desktop\école\WindowsFormsApplication4\ObserverPattern\obj\Re
 C:\Users\Jean-Gab\Desktop\école\WindowsFormsApplication4\ObserverPattern\obj\Release\WindowsFormsApplication4.FormTester.resources
 C:\Users\Jean-Gab\Desktop\école\WindowsFormsApplication4\ObserverPattern\obj\Release\WindowsFormsApplication4.Properties.Resources.resources
 C:\Users\Jean-Gab\Desktop\école\WindowsFormsApplication4\ObserverPattern\obj\Release\ObserverProject.csproj.GenerateResource.Cache
+C:\Users\Jean-Gab\Documents\GitHub\Observer\ObserverPat\ObserverPattern\bin\Release\WindowsFormsApplication4.exe.config
+C:\Users\Jean-Gab\Documents\GitHub\Observer\ObserverPat\ObserverPattern\obj\Release\WindowsFormsApplication4.exe
+C:\Users\Jean-Gab\Documents\GitHub\Observer\ObserverPat\ObserverPattern\obj\Release\WindowsFormsApplication4.pdb
