@@ -48,21 +48,23 @@
 
 # Why ?
 
-Observer pattern is used when there is one-to-many relationship between objects such as if one object is modified, its
+Observer pattern is used when there is one-to-many relationship between objects such as if one object
 
-Dependent objects are to be notified automatically. Observer pattern falls under behavioral pattern category. Think for
+is modified, its dependent objects are to be notified automatically. Observer pattern falls under 
 
-example of twitter, followers is the observer and the followed is to one being observed.
+behavioral pattern category. Think for example of twitter, followers is the observer and the followed 
+
+is to one being observed.
 
 # Example
 
-Simply clone my project and test my pattern. To me, real life example is always easier to understand. That why I used 
+Simply clone my project and test my pattern. To me, real life example is always easier to understand. 
 
-the electricity for the example. In the project I created 2 custom component: "Switch" and "light". You simply register a
+That why I used the electricity for the example. In the project I created 2 custom component: "Switch"
 
-switch to a light to make it react to it.
+and "light". You simply register a switch to a light to make it react to it.
 
-
+ 
 
 ![alt tag](https://raw.githubusercontent.com/JGLaferte/Observer/master/lightExemple.png)
 
