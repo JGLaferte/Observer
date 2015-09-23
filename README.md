@@ -27,13 +27,13 @@
 
         }
 ```
-# Ho to use ?
+# How to use ?
 
 * Implement the Iobserver for the obervable object
 
-* Create a new instance of Observer Manager in the observed object
+* Create a new instance of an Observer Manager in the observed object
 
-* Place the Notify function where is needed
+* Place the Notify function where it is needed
 
 * Register/unregister 
 
@@ -41,28 +41,28 @@
 
 | Objectif  | Solution |
 | ------------- | ------------- |
-| Easy to use and simple | using class/interface for make instance for having less code to write   |
-| Reusable | Using generic typing + no multi inheritance (c# don’t support it)  |
+| Easy to use and simple | using class/interface to make instance for having less code to write   |
+| Reusable | Using generic typing + no multi inheritance (c# doesn’t support it)  |
 
 
 
 # Why ?
 
-Observer pattern is used when there is one-to-many relationship between objects such as if one object
+The Observer pattern is used when there is one-to-many relationship between objects such as if one object
 
-is modified, its dependent objects are to be notified automatically. Observer pattern falls under 
+is modified, its dependent objects are to be notified automatically. The Observer pattern falls under the 
 
-behavioral pattern category. Think for example of twitter, followers is the observer and the followed 
+behavioral pattern category. Think for example of twitter, followers are the observers and the followed channels 
 
-is to one being observed.
+are the ones being observed.
 
 # Example
 
 Simply clone my project and test my pattern. To me, real life example is always easier to understand. 
 
-That why I used the electricity for the example. In the project I created 2 custom component: "Switch"
+That is why I use an electricity example. In the project I created 2 custom components: a "Switch"
 
-and "light". You simply register a switch to a light to make it react to it.
+and a "light". You simply register a switch to a light to make it react to it.
 
  
 
