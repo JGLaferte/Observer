@@ -69,6 +69,7 @@ and a "light". You simply register a switch to a light to make it react to it.
 ![alt tag](https://raw.githubusercontent.com/JGLaferte/Observer/master/ObserverPat/ObserverPattern/Img/Observer.gif)
 
 (Switch1 is registered to light 1 and 2)
+(Switch2 is registered to light 2 and 3)
 
 
 
