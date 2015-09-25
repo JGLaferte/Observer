@@ -1,4 +1,4 @@
-#My take on the Design pattern Observer
+#My take on the Design pattern Observer#
 ```csharp
 
         public class ObserverManager
